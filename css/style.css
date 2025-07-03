@@ -33,7 +33,7 @@
 .section-1 .first-1{
     height:90vh;
     width: 100%;
-    background-image: url(/images/slider2.jpg);
+    background-image: url(/images/slider2.jpg) !important;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -43,7 +43,7 @@
 .section-1 .first-2{
     height:90vh;
     width: 100%;
-    background-image: url(/images/slider3.jpg);
+    background-image: url(/images/slider3.jpg) !important;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
